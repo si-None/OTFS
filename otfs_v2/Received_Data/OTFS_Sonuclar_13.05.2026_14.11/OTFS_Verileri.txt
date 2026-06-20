@@ -1,0 +1,16 @@
+====== OTFS PERFORMANS RAPORU (13.05.2026_14.11) ======
+Toplam Frame Sayisi   : 2000
+Gonderilen Toplam Bit : 6400000
+Toplam Hata Sayisi    : 387
+Toplam BER    : 6.047e-05
+
+SNR(dB)	BER(AWGN Sweep)
+0		1.57e-01
+5		4.56e-02
+10		5.69e-03
+15		7.93e-04
+20		1.99e-04
+25		1.06e-04
+30		6.84e-05
+35		6.41e-05
+40		6.23e-05
